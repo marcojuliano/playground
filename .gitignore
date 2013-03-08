@@ -1,3 +1,6 @@
+*.bak
+*.old
+
 *.class
 
 # Package Files #
